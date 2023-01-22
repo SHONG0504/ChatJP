@@ -1,1 +1,3 @@
 # ChatJP
+
+Japanese AI chatbot
